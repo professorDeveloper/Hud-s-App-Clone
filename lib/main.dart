@@ -53,6 +53,6 @@ class MyApp extends ConsumerWidget  {
         },
         loading: () => const Loader(),
       ),
-    );
+    );  
   }
 }
